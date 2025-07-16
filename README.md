@@ -41,3 +41,6 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 
 ## Contact
 For any issues or feature requests, please open an issue on the repository.
+
+## License
+This project is open-source and available under the MIT License.
